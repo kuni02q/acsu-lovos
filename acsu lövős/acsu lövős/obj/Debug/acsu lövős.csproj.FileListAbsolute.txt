@@ -1,0 +1,10 @@
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\bin\Debug\acsu lövős.exe.config
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\bin\Debug\acsu lövős.exe
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\bin\Debug\acsu lövős.pdb
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu lövős.csprojAssemblyReference.cache
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu_lövős.Properties.Resources.resources
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu lövős.csproj.GenerateResource.cache
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu lövős.csproj.CoreCompileInputs.cache
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu lövős.exe
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu lövős.pdb
+C:\Users\Andras\Desktop\GAMEK\acsu lövős\acsu lövős\obj\Debug\acsu_lövős.kepernyo.resources
